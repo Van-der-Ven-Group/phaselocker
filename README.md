@@ -17,3 +17,5 @@ Requires numpy, scipy and bokeh. Example notebooks may use additional packages.
 
 #### phaselocker.fitting:
   Contains basic statistical learning fitting algorithms and model comparison tools.
+
+The development of this software was supported by the National Science Foundation, under contract No. 2311370.
